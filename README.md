@@ -9,7 +9,7 @@ Hi 👋, I’m Kabilan Thiru
 📫 Email: kabilanthiru07@gmail.com
 
 🌐 Portfolio: coming soon  
-💼 LinkedIn: kabilan-thiru-565b07296 
+💼 LinkedIn: www.linkedin.com/in/kabilan-thiru-565b07296
 🐙 GitHub: https://github.com/kabilanthiru07-creator 
 
 ---
