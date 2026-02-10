@@ -1,16 +1,55 @@
-## Hi there 👋
+Hi 👋, I’m Kabilan Thiru  
 
-<!--
-**kabilanthiru07-creator/kabilanthiru07-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏻‍💻 Aspiring Full Stack Developer  
+🌱 Learning React, Node.js & modern web development  
+🧠 Improving JavaScript fundamentals & backend concepts  
+💡 Focused on clean logic and real-world projects  
 
-Here are some ideas to get you started:
+📍 India  
+📫 Email: your-email@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio: coming soon  
+💼 LinkedIn: coming soon  
+🐙 GitHub: https://github.com/your-username  
+
+---
+
+## 🔭 What I’m Learning & Working On
+
+- Backend with Node.js & Express  
+- Frontend using React (JSX, components)  
+- JWT authentication & REST APIs  
+- Client–Server architecture  
+- JavaScript fundamentals  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+### 🌐 Frontend
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+### ⚙️ Backend
+![Node](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
+### 🗄️ Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### 🧰 Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+⭐️ *Learning every day, one commit at a time.*
