@@ -6,11 +6,11 @@ Hi 👋, I’m Kabilan Thiru
 💡 Focused on clean logic and real-world projects  
 
 📍 India  
-📫 Email: your-email@gmail.com  
+📫 Email: kabilanthiru07@gmail.com
 
 🌐 Portfolio: coming soon  
 💼 LinkedIn: coming soon  
-🐙 GitHub: https://github.com/your-username  
+🐙 GitHub: https://github.com/kabilanthiru07-creator 
 
 ---
 
