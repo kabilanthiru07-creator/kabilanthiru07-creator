@@ -10,6 +10,7 @@ Hi 👋, I’m Kabilan Thiru
 
 🌐 Portfolio: coming soon  
 💼 LinkedIn: www.linkedin.com/in/kabilan-thiru-565b07296
+
 🐙 GitHub: https://github.com/kabilanthiru07-creator 
 
 ---
